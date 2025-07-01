@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\HospitalAPP.exe.config
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\HospitalAPP.exe
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\HospitalAPP.pdb
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.exe
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.pdb
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\Hospital.21986100.Up2Date
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\HospitalAPP.exe.manifest
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\bin\Debug\HospitalAPP.application
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.TrustInfo.xml
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.exe.manifest
+C:\Users\Mustafa\source\repos\HospitalAPP\HospitalAPP\obj\Debug\HospitalAPP.application
